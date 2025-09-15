@@ -1,0 +1,14 @@
+{
+  "name": "codex-w3c-did-vc-2.0",
+  "version": "1.0.0",
+  "description": "Simple Node.js workflow for W3C DID and VC Data Model 2.0",
+  "main": "workflow.js",
+  "scripts": {
+    "start": "node workflow.js",
+    "test": "node workflow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
